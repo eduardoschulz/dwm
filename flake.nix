@@ -1,5 +1,5 @@
 {
-  description = "srsRAN Project with googletest as a dependency";
+  description = "dwm flake";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable"; # or a specific commit
