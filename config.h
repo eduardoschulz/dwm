@@ -29,6 +29,7 @@ static const char *const autostart[] = {
 	"slstatus", NULL,
 	"sh", "/home/eduardo/.screenlayout/default.sh", NULL,
 	"nm-applet", NULL,
+	"nitrogen", "--restore",
 	NULL /*terminate*/
 };
 
