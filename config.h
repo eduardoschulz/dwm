@@ -26,6 +26,8 @@ static const char *colors[][3]      = {
 };
 
 static const char *const autostart[] = {
+	"slstatus", NULL,
+	"sh", "/home/eduardo/.screenlayout/default.sh", NULL,
 	"nm-applet", NULL,
 	NULL /*terminate*/
 };
